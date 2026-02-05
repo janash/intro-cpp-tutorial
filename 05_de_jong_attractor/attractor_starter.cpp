@@ -23,6 +23,7 @@ int main() {
     //      x_new = sin(a * y) - cos(b * x)
     //      y_new = sin(c * x) - cos(d * y)
     //   2. Write a circle to the file at position (x_new, y_new)
+    //      Example SVG circle: <circle cx='0.5' cy='0.3' r='0.01' fill='cyan'/>
     //   3. Update x and y for the next iteration
 
     // Close SVG and file
